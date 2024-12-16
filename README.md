@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working as a **Software Engineer** at [Deliveroo](https://www.deliveroo.com/), Bengaluru.
+- 🔭 Currently working as a **Software Engineer** at [Deliveroo](https://deliveroo.co.uk/), Bengaluru.
 - 🌱 Continuously learning and improving my skills in **Go**, **Python**, and **distributed systems**.
 - 💡 Enjoy solving complex problems with a focus on **performance optimization** and **automation**.
 - 🏆 Awarded **Uniphore’s Silver Badge** for developing a cost-attribution microservice.
@@ -35,7 +35,7 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
 
 ## 📈 Work Experience
 
-### **Software Engineer | Deliveroo**  
+### **Software Engineer | Deliveroo**
 *(June 2024 – Present)*
 - Developed a **gRPC service** to manage user offer data, integrating with Kafka for message production.
 - Built a **Kafka consumer** to dynamically update user offer codes.
@@ -62,9 +62,9 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
 ---
 
 ## 📬 Let's Connect
-- **Email**: mailabhi593@gmail.com  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/)  
-- **GitHub**: [github.com/your-username](https://github.com/)  
+- **Email**: [mailabhi593@gmail.com](mailto:mailabhi593@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-singh-thakur-281ab51a7/)  
+- **GitHub**: [github.com/your-username](https://github.com/abhiabhi0)  
 
 ---
 
