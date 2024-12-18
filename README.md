@@ -63,8 +63,8 @@ Welcome to my GitHub profile! I am a passionate **Software Engineer** with a str
 
 ## 📬 Let's Connect
 - **Email**: [mailabhi593@gmail.com](mailto:mailabhi593@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-singh-thakur-281ab51a7/)  
-- **GitHub**: [github.com/your-username](https://github.com/abhiabhi0)  
+- **LinkedIn**: [https://www.linkedin.com/in/abhishek-singh-thakur](https://www.linkedin.com/in/abhishek-singh-thakur-281ab51a7/)  
+- **GitHub**: [https://github.com/abhiabhi0](https://github.com/abhiabhi0)  
 
 ---
 
